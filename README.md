@@ -1,11 +1,10 @@
-# package_name
+# numeros_primos
 
-Description.
-O pacote valida se números é primo ou não, retorna um boolean.
+The package validates whether numbers are prime or not, returns a boolean.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install numeros_primos
 
 ```bash
 pip install numeros_primos
