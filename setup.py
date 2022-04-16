@@ -14,7 +14,7 @@ setup(
     description="Validação de numero primo",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/andersonro"
+    url="https://github.com/andersonro",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=2.7',
